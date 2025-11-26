@@ -3,7 +3,6 @@
 Proyecto académico que simula una tienda online de componentes de ordenador, desarrollado en HTML, CSS y JavaScript. Este sitio web permite visualizar productos como tarjetas gráficas y procesadores, y añadirlos al carrito mediante interacción básica.
 
 ## Estructura del Proyecto
-# Página principal
 ├── index.html --> Pagina principal
 ├── styles.css --> Estilos
 ├── scripts.js --> Script para añadir un producto al carrito y el envio del formulario
