@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda de Componentes</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>Venta de Componentes de Ordenador</h1>
+    </header>
+
+    <main>
+        <section id="productos">
+            <div class="producto">
+                <h2>Tarjeta Gráfica</h2>
+                <img src="img/grafica.jpg" alt="Tarjeta gráfica moderna">
+                <p>Potente GPU para gaming y diseño.</p>
+                <button onclick="agregarCarrito('Tarjeta Gráfica')">Añadir al carrito</button>
+            </div>
+
+            <div class="producto">
+                <h2>Procesador Intel</h2>
+                <img src="img/procesador.jpg" alt="Procesador Intel">
+                <p>Potente procesador para tus juegos en tu PC.</p>
+                <button onclick="agregarCarrito('Procesador Intel')">Añadir al carrito</button>
+            </div>
+            <div class="producto">
+                <h2>Cascasa gammer</h2>
+                <img src="img/cascasa.jpg" alt="Cascasa gammer">
+                <p>Cascasa para darle luz a tu proyecto, a tu ordenador.</p>
+                <button onclick="agregarCarrito('Procesador Intel')">Añadir al carrito</button>
+            </div>
+        </section>
+
+        <section id="formulario">
+            <h2>¡Si tienes alguna duda no dudes en contactarnos!</h2>
+            <form>
+                <label>Email*:</label>
+                <input type="email" required>
+                <label>Teléfono*:</label>
+                <input type="number" required>
+                <label>Mensaje (opcional):</label>
+                <textarea></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Tienda de Componentes</p>
+    </footer>
+</body>
+
+</html>
