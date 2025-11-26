@@ -20,7 +20,7 @@ Proyecto académico que simula una tienda online de componentes de ordenador, de
 - Implementar sistema real de carrito con almacenamiento local o backend.
 - Añadir validación y gestión de formularios.
 - Adaptar diseño para dispositivos móviles (media queries).
-## 📚 Conclusión Académica
+## Conclusión Académica
 Este proyecto demuestra la aplicación práctica de HTML, CSS y JavaScript en la creación de una tienda 
 web funcional. Se ha trabajado la estructura semántica, el diseño responsivo y la interacción básica 
 con el usuario. Además, se identificaron y corrigieron errores visuales, reforzando la importancia de 
