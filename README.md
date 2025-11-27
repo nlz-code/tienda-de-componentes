@@ -4,8 +4,11 @@ Proyecto académico que simula una tienda online de componentes de ordenador, de
 
 ## Estructura del Proyecto
 ├── index.html --> Pagina principal
+
 ├── styles.css --> Estilos
+
 ├── scripts.js --> Script para añadir un producto al carrito y el envio del formulario
+
 └── img --> Imagenes usadas en el codigo
 
 ## Tecnologías Utilizadas
